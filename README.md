@@ -51,12 +51,13 @@ QoL modpack for vanilla survival Minecraft server
 4. Paste the _mods_ folder into your new installation (replace the files if prompted)
 # Coming Soon
 - LambDynamicLights - ambient light from held items and entities
-- Litematica - schematics
 # Changelog
 ### 1.1
 - Added Harvest - right click crops with a seed in hand to harvest and replant
 - Added Recipe Unlocker - recipe book starts filled out
 - Added Stack to Nearby Chests - sorts inventory into surrounding chests
 - Removed Controlify - controller support
+- Added Litematica (1.21 port by Sakura Ryoko) - schematics
+- Added MaLiLib (1.21 port by Sakura Ryoko) - library for Litematica
 ### 1.0
 - Pack created
